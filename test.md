@@ -8,9 +8,7 @@
 </table>
 
 <script>
-
   alert(0);
-
 </script>
 
 hello
